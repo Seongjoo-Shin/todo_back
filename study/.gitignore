@@ -16,7 +16,7 @@ build/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-!src/main/resource/serviceAccountKey.json
+src/main/resource/serviceAccountKey.json
 
 ### IntelliJ IDEA ###
 .idea
